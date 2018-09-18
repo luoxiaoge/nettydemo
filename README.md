@@ -1,2 +1,2 @@
 # nettydemo
-just a netty guider demo bu luoc
+just a netty guider demo by luoc
